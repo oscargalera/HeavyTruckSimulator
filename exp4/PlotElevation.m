@@ -1,3 +1,7 @@
+% The code in this repository is derived from the work of Lindgren et al. in their work: 
+% Lindgren, L.; Grauers, A.; Ranggård, J.; Mäki, R. Drive-Cycle Simulations of Battery-Electric Large Haul Trucks
+% for Open-Pit Mining with Electric Roads. Energies 2022, 15, 4871. https://doi.org/10.3390/en15134871
+
 close all
 figure()
 hold off
