@@ -3,6 +3,7 @@
 This is the Supplementary Material for the paper titled "Heavy-duty truck simulator: a tool to plan charging and charger layouts", a Tool for Planning Charging Strategies and Charger Layouts in Electric Mining Fleets and Optimizing Efficiency with a Simulation Approach by Óscar Galera Martínez.
 
 The code in this repository is derived from the work of Lindgren et al. in their work: Lindgren, L.; Grauers, A.; Ranggård, J.; Mäki, R. Drive-Cycle Simulations of Battery-Electric Large Haul Trucks for Open-Pit Mining with Electric Roads. Energies 2022, 15, 4871. https://doi.org/10.3390/en15134871
+
 This simulation tool was created based on their open-access code, which is available at https://www.mdpi.com/article/10.3390/en15134871/s1
 
 **Features:**
